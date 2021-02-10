@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Villa Bidadari Cliffside Estate",
+    "logo": "/images/img1.svg",
+    "isNew": true,
+    "featured": true,
+    "postedAt": "1d ago",
+    "bedroom": "2-3 bedrooms",
+    "price": "1000$",
+    "location": "Bukit"
+  },
+  {
+    "id": 2,
+    "name": "Villa Tukad Pangi",
+    "logo": "/images/img2.svg",
+    "isNew": true,
+    "featured": true,
+    "postedAt": "1d ago",
+    "bedroom": "3 bedrooms",
+    "price": "997$",
+    "location": "Canggu"
+  },
+  {
+    "id": 3,
+    "name": "Villa Sol y Mar",
+    "logo": "/images/img3.svg",
+    "isNew": true,
+    "featured": false,
+    "postedAt": "2d ago",
+    "bedroom": "1-2 bedrooms",
+    "price": "1234$",
+    "location": "Bukit"
+  },
+  {
+    "id": 4,
+    "name": "Villa Nag Shampa",
+    "logo": "/images/img4.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "5d ago",
+    "bedroom": "4 bedrooms",
+    "price": "1004$",
+    "location": "Ubud"
+  },
+  {
+    "id": 5,
+    "name": "Loop Studios",
+    "logo": "/images/img5.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "1w ago",
+    "bedroom": "2-3 bedrooms",
+    "price": "876$",
+    "location": "Canggu"
+  },
+  {
+    "id": 6,
+    "name": "Villa Jagaditha",
+    "logo": "/images/img6.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "2w ago",
+    "bedroom": "4 bedrooms",
+    "price": "1001$",
+    "location": "Canggu"
+  },
+  {
+    "id": 7,
+    "name": "Villa Zambala",
+    "logo": "/images/img7.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "2w ago",
+    "bedroom": "5 bedrooms",
+    "price": "946$",
+    "location": "Bukit"
+  },
+  {
+    "id": 8,
+    "name": "Villa KaliBali",
+    "logo": "/images/img8.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "2w ago",
+    "bedroom": "2-3 bedrooms",
+    "price": "1024$",
+    "location": "Uluwatu"
+  },
+  {
+    "id": 9,
+    "name": "Villa Capung",
+    "logo": "/images/img9.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "3w ago",
+    "bedroom": "10 bedrooms",
+    "price": "1111$",
+    "location": "Canggu"
+  },
+  {
+    "id": 10,
+    "name": "Villa Frangipani",
+    "logo": "/images/img10.svg",
+    "isNew": false,
+    "featured": false,
+    "postedAt": "1mo ago",
+    "bedroom": "4-5 bedrooms",
+    "price": "992$",
+    "location": "Canggu"
+  }
+]
